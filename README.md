@@ -2,7 +2,11 @@
 
 초등학생 한 명의 6년(어린이집 → 졸업 → 꿈)을 3D 길 위의 이야기로 보여 주는 졸업 영상 앱의 **학교용 모듈과 빌드 도구**입니다.
 
-> 이 저장소만으로는 앱이 실행되지 않습니다.
+## ▶ 앱 실행하기
+
+**[https://gimseonung91-lgtm.github.io/YMgraduation/](https://gimseonung91-lgtm.github.io/YMgraduation/)** — 이 주소를 크롬·엣지로 열면 바로 실행됩니다(인터넷 연결 필요). 저장소의 `index.html` 이 그 앱입니다.
+
+> 아래 모듈 파일만으로는 실행되지 않습니다. 완성본은 `index.html` 입니다.
 
 ## 들어 있는 것
 
